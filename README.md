@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex NerI!  
+# 👋 Hi, I'm Alex Neri!  
 
 **AI Researcher | Knowledge Engineer | Technical Writer**  
 *Life is a game, therefore be the admin!*

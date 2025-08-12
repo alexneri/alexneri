@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex NerI!  
 
-<!--
-**alexneri/alexneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Researcher | Knowledge Engineer | Technical Writer**  
+*Life is a game, therefore be the admin!*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🧠 **AI Researcher & Knowledge Engineer:**  
+  I love exploring the intersection of deep learning, natural language, and human creativity.  
+- 📝 **Technical Writing:**  
+  I make complex ideas clear and accessible, blending research with storytelling.
+- 🎨 **Design Enthusiast:**  
+  Graphic design is my creative playground—my Adobe subscription says it all!
+- 🎮 **Gamer, Anime & Book Lover:**  
+  When I’m not coding or designing, I’m lost in games, anime worlds, or a good book.
+
+---
+
+### 🛠️ Languages & Skills
+
+- Python | PHP | Matlab | TypeScript (but I mostly vibe-code these days)
+- Graphic Design: Photoshop, Illustrator, and more
+- Knowledge Engineering & Technical Documentation
+
+---
+
+### 🌟 Favorite Projects
+
+- 🤖 **Personal Agent Trainer:**  
+  I have a private repo where I’ve trained an agent to write just like me (ask me about it if you’re curious!).
+
+---
+
+### 🔗 Connect with Me
+
+- 🌐 Personal Site: [sei.moe](https://sei.moe)
+- 🔗 All my socials: [linktr.ee/crosse](https://linktr.ee/crosse)
+
+---
+
+### ⚡ Fun Fact
+
+> **Life is a game, therefore be the admin!**
+
+---
+
+![alexneri banner](https://sei.moe/assets/banner.png)

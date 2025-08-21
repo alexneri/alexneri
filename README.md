@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alex Neri!  
 
 **AI Researcher | Knowledge Engineer | Technical Writer**  
-*Life is a game, therefore be the admin!*
+*Dev will mirror Prod if we Dev on Prod*
 
 ---
 

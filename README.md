@@ -1,56 +1,55 @@
-# 👋 Hi, I'm Alex Neri!  
+# Hey, I'm Alex Neri
 
-**AI Researcher | Knowledge Engineer | Technical Writer**  
-*Dev will mirror Prod if we Dev on Prod*
-
----
-
-### 👨‍💻 About Me
-
-- 🧠 **AI Researcher & Knowledge Engineer:**  
-  I love exploring the intersection of deep learning, natural language, and human creativity.  
-- 📝 **Technical Writing:**  
-  I make complex ideas clear and accessible, blending research with storytelling.
-- 🎨 **Design Enthusiast:**  
-  Graphic design is my creative playground—my Adobe subscription says it all!
-- 🎮 **Gamer, Anime & Book Lover:**  
-  When I’m not coding or designing, I’m lost in games, anime worlds, or a good book.
+**AI Researcher · Knowledge Engineer · Technical Writer**  
+Running [SG Research](https://github.com/SG-Research-R-D) @ SG-Private · Based in Amsterdam
 
 ---
 
-### 🛠️ Languages & Skills
+### What I do
 
-- Python | PHP | Matlab | TypeScript (but I mostly vibe-code these days)
-- Graphic Design: Photoshop, Illustrator, and more
-- Knowledge Engineering & Technical Documentation
+I run an AI research lab. Most of my work lives at the intersection of agentic systems, knowledge engineering, and writing — which sounds like a weird combination until you realize they're all the same problem: getting information to flow correctly from one place to another.
 
----
+Day to day: designing AI pipelines, writing technical documentation that doesn't suck, and occasionally debugging things that should not be broken.
 
-### 🌟 Favorite Projects
-
-- 🤖 **Personal Agent Trainer:**  
-  I have a private repo where I’ve trained an agent to write just like me (ask me about it if you’re curious!).
-- 📊 **Readability score tester:**
-  This is a Typescript/NodeJS app that takes a multi-line input, filters out code, and generates a readability score based on Flesch-Kincaid tests. The higher the score, the easier it is to read and understand your document.[Go to repo](https://github.com/alexneri/readability-folder-ts). [View on NPMJS](https://www.npmjs.com/package/@alexneri/readability-ts). Install via NPM `npm i @alexneri/readability-ts`
-- 🇳🇱 **de Werkwoorden:**
-  An iOS app that lets you study Dutch verbs without too much gamification and upsells. Repo is currently private.
-- 🖥️ **Kafra Desktop Assistant for Mac:**
-  A macOS port of the Windows desktop app Kafra Desktop Assistant. Migrated from VB6, this is my first greenfield development using Agentic AI, following proper SDLC processes and coding patterns. [Go to repo](https://github.com/alexneri/kafradesk-macos).
-- 📝 **vitedocs:**
-  A ready to deploy instance of a helpcenter using vitepress. Configure what you need and instantly have your helpcenter ready in minutes. [Go to repo](https://github.com/alexneri/vitedocs)
+Also an Emergency Response Officer in the Netherlands. Radio comms, coordination, the works.
 
 ---
 
-### 🔗 Connect with Me
+### Stack
 
-- 🌐 Personal Site: [sei.moe](https://sei.moe)
-- 🔗 All my socials: [linktr.ee/crosse](https://linktr.ee/crosse)
+**Languages:** Python · TypeScript · some PHP when I can't avoid it  
+**AI/ML:** Claude API · Azure AI · RAG architectures · agent tooling  
+**Design:** Figma · Photoshop · Illustrator  
+**Infra:** Microsoft Azure · Google Workspace (admin)
 
 ---
 
-### ⚡ Fun Fact
+### Projects worth looking at
 
-> **Life is a game, therefore be the admin!**
+**[Kafra Desktop Assistant for Mac](https://github.com/alexneri/kafradesk-macos)**  
+A macOS port of a Windows app originally written in VB6. My first greenfield build using agentic AI with a proper SDLC — actual architecture decisions, not vibes.
+
+**[readability-folder-ts](https://github.com/alexneri/readability-folder-ts)**  
+CLI tool that runs Flesch-Kincaid readability scoring recursively on a folder of `.adoc` files. Useful if you write a lot of docs and want to know when they've gotten unreadable. [NPM](https://www.npmjs.com/package/@alexneri/readability-ts) · `npm i @alexneri/readability-ts`
+
+**[vitedocs](https://github.com/alexneri/vitedocs)**  
+Deploy a full help center in minutes using VitePress + Vercel. No config hell.
+
+**de Werkwoorden** *(private)*  
+An iOS app for studying Dutch verbs. No gamification, no upsells. Just the verbs.
+
+**Personal Agent Trainer** *(private)*  
+I trained an agent to write like me. Ask me about it.
+
+---
+
+### Find me
+
+[sei.moe](https://sei.moe) · [linktr.ee/crosse](https://linktr.ee/crosse) · [@Crosse\_](https://twitter.com/Crosse_) on X
+
+---
+
+> *Dev will mirror Prod if we Dev on Prod.*
 
 ---
 

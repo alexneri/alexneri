@@ -30,6 +30,14 @@
 
 - 🤖 **Personal Agent Trainer:**  
   I have a private repo where I’ve trained an agent to write just like me (ask me about it if you’re curious!).
+- 📊 **Readability score tester:**
+  This is a Typescript/NodeJS app that takes a multi-line input, filters out code, and generates a readability score based on Flesch-Kincaid tests. The higher the score, the easier it is to read and understand your document.[Go to repo](https://github.com/alexneri/readability-folder-ts). [View on NPMJS](https://www.npmjs.com/package/@alexneri/readability-ts). Install via NPM `npm i @alexneri/readability-ts`
+- 🇳🇱 **de Werkwoorden:**
+  An iOS app that lets you study Dutch verbs without too much gamification and upsells. Repo is currently private.
+- 🖥️ **Kafra Desktop Assistant for Mac:**
+  A macOS port of the Windows desktop app Kafra Desktop Assistant. Migrated from VB6, this is my first greenfield development using Agentic AI, following proper SDLC processes and coding patterns. [Go to repo](https://github.com/alexneri/kafradesk-macos).
+- 📝 **vitedocs:**
+  A ready to deploy instance of a helpcenter using vitepress. Configure what you need and instantly have your helpcenter ready in minutes. [Go to repo](https://github.com/alexneri/vitedocs)
 
 ---
 

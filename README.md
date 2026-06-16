@@ -1,7 +1,7 @@
 # Hey, I'm Alex Neri
 
 **AI Researcher · Knowledge Engineer · Technical Writer**  
-Running [SG Research](https://github.com/SG-Research-R-D) · Based in Amsterdam
+Running [SG Research](https://github.com/SG-Research-R-D), writing for [Backbase](https://www.backbase.com) · Based in Amsterdam
 
 ---
 

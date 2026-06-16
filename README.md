@@ -29,8 +29,11 @@ Also an Emergency Response Officer in the Netherlands. Radio comms, coordination
 **[Kafra Desktop Assistant for Mac](https://github.com/alexneri/kafradesk-macos)**  
 A macOS port of a Windows app originally written in VB6. My first greenfield build using agentic AI with a proper SDLC — actual architecture decisions, not vibes.
 
-**[readability-folder-ts](https://github.com/alexneri/readability-folder-ts)**  
+**[readability-folder-ts](https://github.com/alexneri/readability-folder-ts) - ([promo site](https://readability-cli.sei.moe/))** 
 CLI tool that runs Flesch-Kincaid readability scoring recursively on a folder of `.adoc` files. Useful if you write a lot of docs and want to know when they've gotten unreadable. [NPM](https://www.npmjs.com/package/@alexneri/readability-ts) · `npm i @alexneri/readability-ts`
+
+**[Chibikeys](https://chibikeys.com/)**
+A playful site for toddlers, kids, and for those kid at heart. Press any key, any how, and anytime. Play around. Make sounds. Make a beautiful mess.
 
 **[vitedocs](https://github.com/alexneri/vitedocs)**  
 Deploy a full help center in minutes using VitePress + Vercel. No config hell.

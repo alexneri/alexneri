@@ -17,10 +17,10 @@ Also an Emergency Response Officer in the Netherlands. Radio comms, coordination
 
 ### Stack
 
-**Languages:** Python · TypeScript · some PHP when I can't avoid it  
-**AI/ML:** Claude API · Azure AI · RAG architectures · agent tooling  
-**Design:** Figma · Photoshop · Illustrator  
-**Infra:** Microsoft Azure · Google Workspace (admin)
+**Languages:** Python · TypeScript · some PHP when I can't avoid it esp. WordPress
+**AI/ML:** Cursor SDK & IDE, Claude API · Azure AI · AWS Sagemaker · RAG architectures · agent and loop tooling  
+**Design:** Figma · Photoshop · Illustrator · Mitte AI
+**Infra:** Microsoft Azure · AWS Lighsail · Windows 365 · Google Workspace (admin)
 
 ---
 

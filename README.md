@@ -1,7 +1,7 @@
 # Hey, I'm Alex Neri
 
 **AI Researcher · Knowledge Engineer · Technical Writer**  
-Running [SG Research](https://github.com/SG-Research-R-D), writing for [Backbase](https://www.backbase.com) · Based in Amsterdam
+Running [SG Research](https://github.com/SG-Research-R-D), building AI agents for [Backbase](https://www.backbase.com) · Based in Amsterdam
 
 ---
 
@@ -18,13 +18,16 @@ Also an Emergency Response Officer in the Netherlands. Radio comms, coordination
 ### Stack
 
 **Languages:** Python · TypeScript · some PHP when I can't avoid it esp. WordPress
-**AI/ML:** Cursor SDK & IDE, Claude API · Azure AI · AWS Sagemaker · RAG architectures · agent and loop tooling  
-**Design:** Figma · Photoshop · Illustrator · Mitte AI
-**Infra:** Microsoft Azure · AWS Lighsail · Windows 365 · Google Workspace (admin)
+**AI/ML:** Cursor SDK & IDE, Claude API · OpenClaw · Grok Bots · Azure AI · AWS Sagemaker · RAG architectures · agent and loop tooling  
+**Design:** Claude Design · Figma · Photoshop · Illustrator · Mitte AI
+**Infra:** Vercel · Microsoft Azure · AWS Lighsail · Windows 365 · Google Workspace (admin) · Good Old VPS and Baremetal servers
 
 ---
 
 ### Projects worth looking at
+
+**[AI Unified Usage Meter Dashboard](https://github.com/alexneri/ai-unified-usage-meter-dashboard)**
+A frontend and backend package that lets you remotely track your AI usage on a website. A collector lives on your mac that tracks you use across different providers. Very useful if you have OpenClaw on your own mac and you use multiple AI services.
 
 **[Kafra Desktop Assistant for Mac](https://github.com/alexneri/kafradesk-macos)**  
 A macOS port of a Windows app originally written in VB6. My first greenfield build using agentic AI with a proper SDLC — actual architecture decisions, not vibes.
